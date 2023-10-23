@@ -1,0 +1,23 @@
+{
+  "name": "chatrobot",
+  "version": "1.0.0",
+  "description": "一个微信机器人项目！",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianshaojun/chatrobot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianshaojun/chatrobot/issues"
+  },
+  "homepage": "https://github.com/tianshaojun/chatrobot#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
